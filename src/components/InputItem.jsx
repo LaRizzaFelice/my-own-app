@@ -1,9 +1,6 @@
 import { Button, TextField } from "@mui/material";
-import { useState } from "react";
 
 export const InputItem = ({ setText, setUpdated, input }) => {
-  const [inputValue, setInputValue] = useState("");
-
   const handleInput = (event) => {
     setText(event.target.value);
   };
@@ -18,7 +15,7 @@ export const InputItem = ({ setText, setUpdated, input }) => {
 
   return (
     <div>
-      <TextField type="text" onChange={handleInput} />
+      <TextField type="text" onChange={handleInput} value={input} />
 
       <Button
         onClick={() => {
