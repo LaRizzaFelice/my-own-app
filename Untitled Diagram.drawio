@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T11:50:31.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BZ5ZkPGF-GCDsfs4f1Hj" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T11:58:37.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_jRRHZw7V2PgOpoDECkT" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1793" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ugd1NsvXaMakMv1Sasn-9" value="Zitten deze er in?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_ugd1NsvXaMakMv1Sasn-9" value="Zijn deze compleet?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="182.5" y="270" width="135" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_ugd1NsvXaMakMv1Sasn-13" value="Nee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -71,8 +71,11 @@
         <mxCell id="6afdchd-Iu1FxITVfSQp-19" value="Opleidingscentrum ingeven in de shared opvolgfiche op TEAMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="995" y="280" width="105" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6afdchd-Iu1FxITVfSQp-133" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-21" target="6afdchd-Iu1FxITVfSQp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-21" value="Deelnemers invoegen via Deelnemers TAB&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="716" y="422" width="175" height="40" as="geometry" />
+          <mxGeometry x="713" y="422" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-19" target="6afdchd-Iu1FxITVfSQp-19">
           <mxGeometry relative="1" as="geometry" />
@@ -84,11 +87,6 @@
             <Array as="points">
               <mxPoint x="1155" y="390" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6afdchd-Iu1FxITVfSQp-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6afdchd-Iu1FxITVfSQp-35" source="6afdchd-Iu1FxITVfSQp-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="801" y="542" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-31" value="Ingave via SAP extractie Excel File Sylvie Martel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -213,8 +211,11 @@
         <mxCell id="6afdchd-Iu1FxITVfSQp-88" value="Geen extra controle +/- 5%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632.25" y="944" width="110" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="6afdchd-Iu1FxITVfSQp-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-89" target="6afdchd-Iu1FxITVfSQp-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-89" value="Extra controle +/- 5%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="944" width="120" height="52" as="geometry" />
+          <mxGeometry x="257" y="944" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-95" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-97" target="6afdchd-Iu1FxITVfSQp-100">
           <mxGeometry relative="1" as="geometry">
@@ -243,12 +244,6 @@
         </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-101" value="SCAN IN PDF EXAMEN FICHES + DOORSTUREN MAIL&lt;div&gt;Technical Consults&lt;br&gt;&lt;div&gt;+ SIGI in kopie&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="1070" width="120" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="6afdchd-Iu1FxITVfSQp-102" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-89" target="6afdchd-Iu1FxITVfSQp-97">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="129" y="978" as="sourcePoint" />
-            <mxPoint x="55" y="990" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6afdchd-Iu1FxITVfSQp-108" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6afdchd-Iu1FxITVfSQp-101" target="6afdchd-Iu1FxITVfSQp-97">
           <mxGeometry relative="1" as="geometry">
