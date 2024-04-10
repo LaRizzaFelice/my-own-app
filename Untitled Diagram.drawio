@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:58:55.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QfT78czT9jUPbWFWlYQX" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T13:07:40.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OJ-W-sMZbeohuk03TPMj" version="24.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -328,6 +328,18 @@
         </mxCell>
         <mxCell id="KENg3wdXICFcXP1z4nv7-21" value="&lt;span style=&quot;background-color: rgb(255, 255, 0);&quot;&gt;Afdrukken certificaten&lt;/span&gt;&amp;nbsp;&lt;div&gt;Sylvie Martel tekent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="985" y="1269.46" width="110" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KENg3wdXICFcXP1z4nv7-24" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KENg3wdXICFcXP1z4nv7-25" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;&lt;u&gt;Flowchart CAL Blauwe kist&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="40" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KENg3wdXICFcXP1z4nv7-26" value="Versie 04-2024" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KENg3wdXICFcXP1z4nv7-27" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630.5" y="37" width="485.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
